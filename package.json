@@ -1,0 +1,31 @@
+{
+  "name": "jdi-js",
+  "version": "0.0.0",
+  "description": "Page Object riched webdriver bindings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jdi",
+    "epam",
+    "selenium",
+    "pageobject"
+  ],
+  "author": "elkemper",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^6.0.2",
+    "webdriver": "^5.6.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "css-value": "0.0.1",
+    "eslint": "^5.14.1",
+    "fibers": "^3.1.1",
+    "grapheme-splitter": "^1.0.4",
+    "lodash.isobject": "^3.0.2",
+    "rgb2hex": "^0.1.9"
+  }
+}
